@@ -1,5 +1,5 @@
-SIMPLE JAVASCRIPT ROBOT:
-  
-    A unconventional use of javascript.
+SIMPLE JAVASCRIPT ROBOT: 
 
-Link: https://mpiechulek.github.io/johnny-robot/
+ An unconventional use of javascript.
+
+    Link: https://mpiechulek.github.io/johnny-robot/
