@@ -1,0 +1,15 @@
+.img{
+    display:block;
+    position: relative;
+    width: 100%;
+    height: auto;
+
+    &_1{
+
+    }
+
+    &_2{
+        max-height: 35rem;
+        width: 100%;
+    }
+}

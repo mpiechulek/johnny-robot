@@ -1,0 +1,10 @@
+.header {
+    background-color:  #F4C352;
+    position: relative;
+    height: 25vh;
+
+    &_heading-1{
+        text-align: center;
+        @include absCenetr();        
+    }
+}

@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    background-color: $color-4;
+    height: 17vh;
+    position: relative;
+    text-align: center;
+    padding: 1rem;
+
+    @include respond(phone){
+        flex-direction: column;
+    }
+
+    &_img{
+        width: 13rem;
+        @include respond(phone){
+            width: 5rem;
+        }
+    }
+}
