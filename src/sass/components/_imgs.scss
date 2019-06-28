@@ -1,7 +1,7 @@
 .img{
     display:block;
     position: relative;
-    width: 100%;
+    width: auto;
     height: auto;
 
     &_1{
@@ -11,5 +11,10 @@
     &_2{
         max-height: 35rem;
         width: 100%;
+    }
+
+    &_4{
+        
+        width: auto;
     }
 }
