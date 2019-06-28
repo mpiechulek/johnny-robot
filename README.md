@@ -1,4 +1,5 @@
-BITCOIN TRADING SYMULATOR:
-  
+SIMPLE JAVASCRIPT ROBOT: 
 
-Link: https://mpiechulek.github.io/Blue-Sheets-crypto-symulator/
+ An unconventional use of javascript.
+
+ Link: https://mpiechulek.github.io/johnny-robot/
